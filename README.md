@@ -7,8 +7,8 @@ This GitHub repository contains a machine learning project that utilizes the XGB
 # OBJECTIVE
 The objective of a house price prediction project is to develop a model that can accurately estimate or predict the market value or selling price of residential properties based on various input features. This prediction can be used for a variety of purposes, including real estate investment, property appraisal, and market analysis. The primary goal is to provide valuable insights into property valuation, enabling informed decision-making for buyers, sellers, and real estate professionals.
 
-[Open in Google Colab](https://colab.research.google.com/drive/1vOWM59iAa5UW9FpPasvjIckijM0tjIP7?usp=sharing)
-![Google Collab](ML_PROJECT_House_Price_Prediction.ipynb)
+[![Open in Google Colab](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1vOWM59iAa5UW9FpPasvjIckijM0tjIP7?usp=sharing)
+
 
 # DATASET
 The California Housing dataset is a popular dataset often used for regression tasks. It contains data related to housing prices in various districts of California, along with several features such as population, median income, and more.
