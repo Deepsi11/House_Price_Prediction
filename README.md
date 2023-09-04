@@ -1,6 +1,7 @@
 # HOUSE_PRICE_PREDICTION
 
 This GitHub repository contains a machine learning project that utilizes the XGBoost algorithm to predict housing prices in California using the California Housing dataset. The repository includes all the necessary code and resources to train and evaluate the model.
+
 ![HOUSE_PRICE](house.png)
 
 # OBJECTIVE
